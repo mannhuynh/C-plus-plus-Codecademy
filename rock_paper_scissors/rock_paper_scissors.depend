@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607371216 source:d:\code\cpp\rock_paper_scissors\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
