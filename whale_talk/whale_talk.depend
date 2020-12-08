@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607386379 source:d:\code\cpp\whale_talk\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
