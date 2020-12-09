@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1607545989 source:d:\code\cpp\interview\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	"interview.hpp"
+
+1607545022 source:d:\code\cpp\interview\reverse_word.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	"interview.hpp"
+
+1607545792 d:\code\cpp\interview\interview.hpp
+
+1607546001 source:d:\code\cpp\interview\fizzbuzz.cpp
+	<iostream>
+
+1607545749 source:d:\code\cpp\interview\is_palindrome.cpp
+	<string>
+
