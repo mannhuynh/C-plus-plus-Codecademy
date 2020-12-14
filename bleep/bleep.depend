@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607965498 source:d:\code\cpp\bleep\main.cpp
+	<iostream>
+	<string>
+	"functions.hpp"
+
+1607965498 source:d:\code\cpp\bleep\functions.cpp
+	<string>
+
+1607965671 d:\code\cpp\bleep\functions.hpp
+
